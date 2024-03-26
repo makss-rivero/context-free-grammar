@@ -84,7 +84,7 @@ LETTER -> A | B | ... | Z
 Start Symbol (S): ALPHANUM_SEQUENCE
 ```
 
-```plaintext
+```markdown
         ALPHANUM_SEQUENCE
             /        \
        NUMBER     ALPHANUM_SEQUENCE
